@@ -16,7 +16,7 @@ public class Addition {
             System.out.print("Enter the second integer: ");
             int second = scanner.nextInt();
 
-            System.out.println("Sum = " + add(first, second));
+            System.out.println(" trigger ");
         }
     }
 }
